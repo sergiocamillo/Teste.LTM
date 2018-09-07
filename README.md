@@ -1,5 +1,4 @@
-# Teste.LTM
-Teste da Empresa LTM
+# Estudo DDD + Angular
 
 Projeto desenvolvido com Angular 2 + Web Api .NET + OAuth
 
